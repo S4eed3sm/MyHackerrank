@@ -1,0 +1,5 @@
+/home/saeed/hackerrank/c++/Mini-Max-Sum/build/CMakeFiles/edit_cache.dir
+/home/saeed/hackerrank/c++/Mini-Max-Sum/build/CMakeFiles/rebuild_cache.dir
+/home/saeed/hackerrank/c++/Mini-Max-Sum/build/CMakeFiles/package.dir
+/home/saeed/hackerrank/c++/Mini-Max-Sum/build/CMakeFiles/package_source.dir
+/home/saeed/hackerrank/c++/Mini-Max-Sum/build/CMakeFiles/MiniMaxSum.dir

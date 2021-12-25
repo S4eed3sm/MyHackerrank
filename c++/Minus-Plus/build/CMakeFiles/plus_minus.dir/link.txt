@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/plus_minus.dir/main.cpp.o -o plus_minus 
