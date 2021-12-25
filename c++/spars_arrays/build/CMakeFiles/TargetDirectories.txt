@@ -1,5 +1,0 @@
-/home/saeedesm/hackerrank/spars_arrays/build/CMakeFiles/spars_array.dir
-/home/saeedesm/hackerrank/spars_arrays/build/CMakeFiles/package.dir
-/home/saeedesm/hackerrank/spars_arrays/build/CMakeFiles/package_source.dir
-/home/saeedesm/hackerrank/spars_arrays/build/CMakeFiles/edit_cache.dir
-/home/saeedesm/hackerrank/spars_arrays/build/CMakeFiles/rebuild_cache.dir

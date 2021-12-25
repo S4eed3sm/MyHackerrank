@@ -1,5 +1,0 @@
-/home/saeedesm/hackerrank/c++/Time_Conversion/build/CMakeFiles/time_convertion.dir
-/home/saeedesm/hackerrank/c++/Time_Conversion/build/CMakeFiles/package.dir
-/home/saeedesm/hackerrank/c++/Time_Conversion/build/CMakeFiles/package_source.dir
-/home/saeedesm/hackerrank/c++/Time_Conversion/build/CMakeFiles/edit_cache.dir
-/home/saeedesm/hackerrank/c++/Time_Conversion/build/CMakeFiles/rebuild_cache.dir
